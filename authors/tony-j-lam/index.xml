@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tony J Lam | TL</title>
-    <link>https://tonyjhlam.github.io/authors/tony-j-lam/</link>
-      <atom:link href="https://tonyjhlam.github.io/authors/tony-j-lam/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tonyjhlam.com/authors/tony-j-lam/</link>
+      <atom:link href="https://www.tonyjhlam.com/authors/tony-j-lam/index.xml" rel="self" type="application/rss+xml" />
     <description>Tony J Lam</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tonyjhlam.github.io/img/icon-192.png</url>
+      <url>https://www.tonyjhlam.com/img/icon-192.png</url>
       <title>Tony J Lam</title>
-      <link>https://tonyjhlam.github.io/authors/tony-j-lam/</link>
+      <link>https://www.tonyjhlam.com/authors/tony-j-lam/</link>
     </image>
     
     <item>
       <title>CRISPRs for Strain Tracking and Their Application to Microbiota Transplantation Data Analysis</title>
-      <link>https://tonyjhlam.github.io/publication/content/publication/lam-2019-crisprs/</link>
+      <link>https://www.tonyjhlam.com/publication/content/publication/lam-2019-crisprs/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://tonyjhlam.github.io/publication/content/publication/lam-2019-crisprs/</guid>
+      <guid>https://www.tonyjhlam.com/publication/content/publication/lam-2019-crisprs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long reads reveal the diversification and dynamics of CRISPR reservoir in microbiomes</title>
-      <link>https://tonyjhlam.github.io/publication/content/publication/lam-2019-long/</link>
+      <link>https://www.tonyjhlam.com/publication/content/publication/lam-2019-long/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://tonyjhlam.github.io/publication/content/publication/lam-2019-long/</guid>
+      <guid>https://www.tonyjhlam.com/publication/content/publication/lam-2019-long/</guid>
       <description></description>
     </item>
     
