@@ -5,7 +5,7 @@
     <link>https://www.tonyjhlam.com/</link>
       <atom:link href="https://www.tonyjhlam.com/index.xml" rel="self" type="application/rss+xml" />
     <description>TL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tonyjhlam.com/img/icon-192.png</url>
       <title>TL</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>CRISPRs for Strain Tracking and Their Application to Microbiota Transplantation Data Analysis</title>
-      <link>https://www.tonyjhlam.com/publication/content/publication/lam-2019-crisprs/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.tonyjhlam.com/publication/content/publication/lam-2019-crisprs/</guid>
+      <title>Long reads reveal the diversification and dynamics of CRISPR reservoir in microbiomes</title>
+      <link>https://www.tonyjhlam.com/publication/content/publication/lam-2019-long/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tonyjhlam.com/publication/content/publication/lam-2019-long/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Long reads reveal the diversification and dynamics of CRISPR reservoir in microbiomes</title>
-      <link>https://www.tonyjhlam.com/publication/content/publication/lam-2019-long/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.tonyjhlam.com/publication/content/publication/lam-2019-long/</guid>
+      <title>CRISPRs for Strain Tracking and Their Application to Microbiota Transplantation Data Analysis</title>
+      <link>https://www.tonyjhlam.com/publication/content/publication/lam-2019-crisprs/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tonyjhlam.com/publication/content/publication/lam-2019-crisprs/</guid>
       <description></description>
     </item>
     
